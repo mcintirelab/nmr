@@ -1,4 +1,4 @@
-Analysis of Amyloid β-Peptide (Aβ) Interaction with Docosahexaenoic Acid (DHA) Phosphatidylcholine (DHA-PC) <br>
+Identification and functional implications of a DHA-phosphatidylcholine binding site in amyloid β-peptide  <br>
 This repository contains the analysis scripts and data associated with the study on the interaction between amyloid β-peptide (Aβ) and docosahexaenoic acid (DHA) containing phosphatidylcholine (DHA-PC), as described in the abstract below:<br><br>
 
 
